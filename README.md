@@ -1,4 +1,4 @@
 # Bhoomi
 This is my first Git repository
 <br>
-Author-Bhoomi Bhadauria
+Author-Bhoomi (first github project)
